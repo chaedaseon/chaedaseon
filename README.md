@@ -2,6 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=Ssony's&nbsp;GitHub&fontSize=80&fontColor=ffffff" style="width: 100%;"/><br>
 	<h3>📚 Tech Stack 📚</h3>
 	<h4>✨ Platforms & Languages ✨</h4>
+	<!--<img src="https://img.shields.io/badge/버튼에표시할내용-색상코드?style=뱃지모양&logo=로고&logoColor=로고색상"/>-->
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&amp;logoColor=white" />	
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
