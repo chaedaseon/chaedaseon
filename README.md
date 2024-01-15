@@ -1,6 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SsonyGitHub&fontSize=90" />
 
 <img src="https://img.shields.io/badge/Java?style=flat&logo=로고이름&logoColor=white"/>
+	<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
+
 
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
