@@ -15,6 +15,9 @@
 </div>
 
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true">
+
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <div key="6">
