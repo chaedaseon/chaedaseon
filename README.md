@@ -1,5 +1,3 @@
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={chaedaseon}&theme=warm)
-
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=Ssony's&nbsp;GitHub&fontSize=80&fontColor=ffffff" style="width: 100%;"/><br>
 	<h3>📚 Tech Stack 📚</h3>
