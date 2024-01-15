@@ -21,7 +21,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true&theme=graywhite"><br><br>
 	<div key="6" style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 	    	<a href = "https://oreuda.kr/">
-	      		<img src=https://oreuda.kr/api/v1/plant/card?nickname=chaedaseon alt="oreuda"/>
+	      		<img src=https://oreuda.kr/api/v1/plant/card?nickname=ssony alt="oreuda"/>
 	    	</a>
 	</div>
 	<img src="/chaedaseon/chaedaseon/raw/main/profile-3d-contrib/profile-season-animate.svg" alt="" style="max-width: 100%;"><br>
