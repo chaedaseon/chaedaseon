@@ -12,7 +12,7 @@
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
  	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-	<br> 
+	<br><br>
 	<h4>🛠 Tools 🛠</h4>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
