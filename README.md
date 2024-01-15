@@ -18,7 +18,7 @@
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" /><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact"><br><br>
-	<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact&hide_border=true" /></a>
+	<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact&hide_border=true" />
 	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true&theme=graywhite"><br><br>
 	<div key="6" style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 	    	<a href = "https://oreuda.kr/">
