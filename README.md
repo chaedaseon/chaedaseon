@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ssony Github&fontSize=90" />
 
 
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
