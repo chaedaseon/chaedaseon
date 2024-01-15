@@ -17,12 +17,12 @@
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" /><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true&theme=graywhite"><br><br>
 	<div key="6" style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 	    	<a href = "https://oreuda.kr/">
 	      		<img src=https://oreuda.kr/api/v1/plant/card?nickname=chaedaseon alt="oreuda"/>
 	    	</a>
-	<img src="/chaedaseon/chaedaseon/raw/main/profile-3d-contrib/profile-season-animate.svg" alt="" style="max-width: 100%;">
+	<img src="/chaedaseon/chaedaseon/raw/main/profile-3d-contrib/profile-season-animate.svg" alt="" style="max-width: 100%;"><br>
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaedaseon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   	</div>
 
