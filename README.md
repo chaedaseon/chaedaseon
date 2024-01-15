@@ -14,7 +14,7 @@
  	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 	<br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true"><br><br>
 	<div key="6" style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
     	<a href = "https://oreuda.kr/">
       		<img src=https://oreuda.kr/api/v1/plant/card?nickname=chaedaseon alt="oreuda"/>
