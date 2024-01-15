@@ -3,6 +3,7 @@
 
 <div align="center">
 	<h3>📚 Tech Stack 📚</h3>
+	<h4>✨ Platforms & Languages ✨</h4>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&amp;logoColor=white" />	
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white" />
