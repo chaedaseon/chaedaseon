@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=SsonyGitHub&fontSize=90&fontColor=white />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=SsonyGitHub&fontSize=90&fontColor=white" />
 
 
 <div align="center">
