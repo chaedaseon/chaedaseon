@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ssony+"<br>"+GitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SsonyGitHub&fontSize=90" />
 
 
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
