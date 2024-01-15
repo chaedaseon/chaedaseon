@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=Ssony's&nbsp;GitHub&fontSize=90" style="max-width:100%;" /><br>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=Ssony's&nbsp;GitHub&fontSize=90" style="color:white;;" /><br>
 	<h3>📚 Tech Stack 📚</h3>
 	<h4>✨ Platforms & Languages ✨</h4>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&amp;logoColor=white" />	
