@@ -15,9 +15,9 @@
  	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 	<br>
 	<h4>🛠 Tools 🛠</h4>
-	<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
-	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" /><br><br>
+	<img src="https://img.shields.io/badge/Eclipse Ide-2C2255?style=flat&logo=eclipseide&logoColor=white" />
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" /><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true"><br><br>
 	<div key="6" style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
