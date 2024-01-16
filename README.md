@@ -1,5 +1,8 @@
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=Ssony's&nbsp;GitHub&fontSize=80&fontColor=ffffff" style="width: 100%;"/><br>	
+	<div align="right">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaedaseon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/><br>
+	</div>
 	<h3>📚 Tech Stack 📚</h3>
 	<h4>✨ Platforms & Languages ✨</h4>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&amp;logoColor=white" />	
@@ -23,8 +26,6 @@
 	</div>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact&hide" style="width:447px;" />
-	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true&theme=graywhite" style="width:500px;"><br><br>	
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaedaseon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/><br>
-
+	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true&theme=graywhite" style="width:500px;"><br><br>		
 </div>
 
