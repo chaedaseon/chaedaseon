@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=Ssony's&nbsp;GitHub&fontSize=80&fontColor=ffffff" style="width: 100%;"/><br>	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc8c8&height=200&section=header&text=Ssony's&nbsp;GitHub&fontSize=80&fontColor=ffffff" style="width: 100%;"/>
 	<div align="right">
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fchaedaseon%2Fgjbae1212%2Fhit-counter&count_bg=%23FFC8C8&title_bg=%23FF9A9A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 	</div>
