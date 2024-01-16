@@ -25,7 +25,7 @@
 		</a>
 	</div>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact&hide" style="width:447px;" />
-	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true&theme=graywhite" style="width:500px;"><br><br>		
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaedaseon&layout=compact&hide" style="width:355px;" />
+	<img src="https://github-readme-stats.vercel.app/api?username=chaedaseon&show_icons=true&theme=graywhite" style="width:400px;"><br><br>		
 </div>
 
